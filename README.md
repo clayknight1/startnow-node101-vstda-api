@@ -1,0 +1,1 @@
+An Express server that can GET, POST and DELETE from the DB. The dependencies are Express, Morgan and Bodyparser
